@@ -1,0 +1,15 @@
+# STM32CubeIDE specific
+/Debug/
+/Release/
+/build/
+*.bin
+*.elf
+*.hex
+*.o
+*.obj
+*.map
+
+# Eclipse settings (opcjonalne, ale zalecane dla początkujących, aby nie śmiecić ustawieniami lokalnymi)
+.metadata/
+.settings/
+*.launch
