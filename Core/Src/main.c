@@ -93,7 +93,7 @@ int main(void)
 {
 
   /* USER CODE BEGIN 1 */
-
+int test_gita = 1;
   /* USER CODE END 1 */
 
   /* MCU Configuration--------------------------------------------------------*/
